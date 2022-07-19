@@ -1,0 +1,10 @@
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/bin/Debug/net6.0/Library.deps.json
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/bin/Debug/net6.0/Library.dll
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/bin/Debug/net6.0/Library.pdb
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/bin/Debug/net6.0/Library.xml
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.fsproj.AssemblyReference.cache
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.AssemblyInfo.fs
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.dll
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.xml
+/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/obj/Debug/net6.0/Library.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jja43tLfRysUbOzu1RLRK3bEk7S4LN8Q23cmvhu6rSwMXS8VHTew8zSXiaDruYJ3XW6pkXkNN94Zwbmp18dEmQ==",
+  "success": true,
+  "projectFilePath": "/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/Library.fsproj",
+  "expectedPackageFiles": [
+    "/Users/quimicarordriguez/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
