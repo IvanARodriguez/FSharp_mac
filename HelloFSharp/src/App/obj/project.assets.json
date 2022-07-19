@@ -58,6 +58,19 @@
             "copyToOutput": false
           }
         }
+      },
+      "Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FSharp.Core": "6.0.5"
+        },
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
       }
     }
   },
@@ -105,11 +118,17 @@
         "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll",
         "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll"
       ]
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../Library/Library.fsproj",
+      "msbuildProject": "../Library/Library.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "FSharp.Core >= 6.0.5"
+      "FSharp.Core >= 6.0.5",
+      "Library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -137,7 +156,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/Library.fsproj": {
+              "projectPath": "/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/Library/Library.fsproj"
+            }
+          }
         }
       }
     },

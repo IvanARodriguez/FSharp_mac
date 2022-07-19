@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eamHp3RYrZdZYtf95DJRWy+EJL/FLt77HYQB89R6Cr5Zok68X6uVkiDDFl/GHNkMqMWV/kSj47aiH80gInIBJw==",
+  "dgSpecHash": "d9tOKAjyCgiPIwczP+WyljaE15WqjBQ4K58E0d3PptC00gZ/i1bXBP1Er7Oa+L2ZbmtEafkBUHgyMRaul0PFiw==",
   "success": true,
   "projectFilePath": "/Users/quimicarordriguez/Documents/projects/FSharp_mac/HelloFSharp/src/App/App.fsproj",
   "expectedPackageFiles": [
