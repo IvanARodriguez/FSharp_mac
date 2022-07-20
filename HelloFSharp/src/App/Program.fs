@@ -1,14 +1,5 @@
-﻿open Library
-open System
-
-module basicFunctions =
-
-    let squarePlus3 side = side * side + 3
-
-    let box = squarePlus3 500
-
-    printfn $"The result of squaring 5 and adding 3 is: %d{box}"
-
+﻿open System
+open Library
 
 [<EntryPoint>]
 let main args = 
@@ -20,4 +11,3 @@ let main args =
     printfn $"Output: %s{json}"
 
     0 // return an integer exit code
-
